@@ -14,7 +14,8 @@
         "vscode": "^1.14.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Languages"
     ],
     "keywords" : [
         "TypeScript",
