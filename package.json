@@ -2,7 +2,7 @@
     "name": "ts-extension-pack",
     "displayName": "TypeScript Extension Pack",
     "description": "This extension contains some of the most popular (and some I find very useful) Typescript extensions.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "loiane",
     "repository": "https://github.com/loiane/typescript-extension-pack-vscode",    
     "icon": "ts-logo.png",
@@ -11,17 +11,17 @@
         "theme": "dark"
     },
     "engines": {
-        "vscode": "^1.14.0"
+        "vscode": "^1.26.0"
     },
     "categories": [
         "Extension Packs",
-        "Languages"
+        "Programming Languages"
     ],
     "keywords" : [
         "TypeScript",
         "TS"
     ],
-    "extensionDependencies": [ 
+    "extensionPack": [ 
         "eg2.tslint",
         "rbbit.typescript-hero",
         "GregorBiswanger.json2ts",
