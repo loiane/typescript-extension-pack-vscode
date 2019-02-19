@@ -4,6 +4,9 @@ All notable changes to the "ts-extension-pack" extension pack will be documented
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## 0.2.0 - 2019-February-19
+- Removed [TSLint -deprecated-](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) and replaced with [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+
 ## 0.1.0 - 2018-August-14
 - Support extension pack revisited - use `extensionPack` instead of `extensionDependencies`
 

@@ -7,7 +7,7 @@ This extension pack packages some of the most popular (and some I find very usef
 
 ### Extensions included
 
-* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - linter for the TypeScript language, help fixing error in TS code. Must have when working with TS.
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - linter for the TypeScript language, help fixing error in TS code. Must have when working with TS.
 
 * [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Favorite feature: sorts and organizes your imports according to convention and removes imports that are unused (`Ctrl+Alt+o` on Win/Linux or `Ctrl+Opt+o` on MacOS).
 
