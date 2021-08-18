@@ -7,8 +7,6 @@ This extension pack packages some of the most popular (and some I find very usef
 
 ### Extensions included
 
-* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - linter for the TypeScript language, help fixing error in TS code. Must have when working with TS.
-
 * [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Favorite feature: sorts and organizes your imports according to convention and removes imports that are unused (`Ctrl+Alt+o` on Win/Linux or `Ctrl+Opt+o` on MacOS).
 
 * [json2ts](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts) - Convert a JSON from clipboard to TypeScript interfaces. (Ctrl+Alt+V).
@@ -21,7 +19,5 @@ This extension pack packages some of the most popular (and some I find very usef
 
 * [Prettier - JavaScript formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - format your Javascript / Typescript / CSS - I recommend adding the following config in you users setting for VsCode: 
   - Settings: `"prettier.singleQuote": true`
-
-* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Must have extension for TS development. You can debug using chrome and add your breakpoints in VSCode.
 
 **Enjoy!**

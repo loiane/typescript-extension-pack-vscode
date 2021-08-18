@@ -2,7 +2,7 @@
     "name": "ts-extension-pack",
     "displayName": "TypeScript Extension Pack",
     "description": "This extension contains some of the most popular (and some I find very useful) Typescript extensions.",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "loiane",
     "repository": "https://github.com/loiane/typescript-extension-pack-vscode",    
     "icon": "ts-logo.png",
@@ -22,13 +22,11 @@
         "TS"
     ],
     "extensionPack": [ 
-        "ms-vscode.vscode-typescript-tslint-plugin",
         "rbbit.typescript-hero",
         "GregorBiswanger.json2ts",
         "stringham.move-ts",
         "christian-kohler.path-intellisense",
         "pmneo.tsimporter",
-        "esbenp.prettier-vscode",
-        "msjsdiag.debugger-for-chrome"
+        "esbenp.prettier-vscode"
     ]
 }
